@@ -51,6 +51,7 @@ def play_quiz():
     print(f"\n결과: {len(quizzes)}문제 중 {score}문제 정답")
 
 
+
 def main():
     while True:
         try:
